@@ -1,0 +1,32 @@
+body{
+    background: #eee;
+    padding-top:15em;
+}
+.contact-form{
+    background: #fff;
+    margin-bottom: 5%;
+    width: 70%;
+    box-shadow: 0px 0px 4px 0px rgba(0,0,0,0.2);
+
+}
+.contact-form .form-control{
+    border-radius:1rem;
+}
+.contact-form form{
+    padding: 14%;
+}
+.contact-form form .row{
+    margin-bottom: -7%;
+}
+.contact-form h5{
+    margin-bottom: 8%;
+    margin-top: -5%;
+    text-align: center;
+    color: #007bff;
+}
+
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+  
